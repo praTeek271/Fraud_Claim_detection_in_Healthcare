@@ -27,4 +27,4 @@ This Repo consists of the following files :
 <br>
 
 
-- supports mac
+- uses random module
