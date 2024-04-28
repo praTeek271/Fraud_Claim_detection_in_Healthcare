@@ -1,4 +1,4 @@
-# Fraud_Claim_detection_in_Healthcare
+# fraud_claim_detection_in_healthcare
 This Repo consists of the following files :
 - .git
 - dataset.zip
@@ -29,4 +29,4 @@ This Repo consists of the following files :
 <br>
 
 
-- i am a bot
+- automated commit
